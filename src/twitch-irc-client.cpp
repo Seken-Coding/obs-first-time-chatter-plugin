@@ -1,5 +1,4 @@
 #include "twitch-irc-client.hpp"
-#include <QRegularExpression>
 
 TwitchIrcClient::TwitchIrcClient(QObject *parent)
     : QObject(parent)
