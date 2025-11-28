@@ -53,3 +53,6 @@ qrc_*.cpp
 *.exe
 *.pdb
 Thumbs.db
+
+# CodeQL
+_codeql_detected_source_root
